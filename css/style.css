@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+}
+.header{
+    background-color: #A2CCD2;
+    height: 150px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.header h1{
+    color: white;
+}
+.content{
+    overflow: hidden;
+}
+.nav{
+     background-color: #6781B3;
+     height: 500px;
+     width: 33.33%;
+     text-align: center;
+     color: white;
+     float: left;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.article{
+     background-color: #FF9285;
+     height: 500px;
+     width: 33.33%;
+     text-align: center;
+     color: white;
+     float: left;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.ads{
+    background-color: #6781B3;
+    height: 500px;
+    width: 33.33%;
+    text-align: center;
+    color: white;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    background-color: #49526D;
+    height: 150px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
